@@ -1,0 +1,13 @@
+C:\Users\helloyou\Documents\Visual Studio 2010\Projects\ShandsMedBreathHold\ShandsMedBreathHold\bin\Debug\ShandsMedBreathHold.exe
+C:\Users\helloyou\Documents\Visual Studio 2010\Projects\ShandsMedBreathHold\ShandsMedBreathHold\bin\Debug\ShandsMedBreathHold.pdb
+C:\Users\helloyou\Documents\Visual Studio 2010\Projects\ShandsMedBreathHold\ShandsMedBreathHold\bin\Debug\zh-CHS\ShandsMedBreathHold.resources.dll
+C:\Users\helloyou\Documents\Visual Studio 2010\Projects\ShandsMedBreathHold\ShandsMedBreathHold\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\helloyou\Documents\Visual Studio 2010\Projects\ShandsMedBreathHold\ShandsMedBreathHold\obj\x86\Debug\ShandsMedBreathHold.MainForm.resources
+C:\Users\helloyou\Documents\Visual Studio 2010\Projects\ShandsMedBreathHold\ShandsMedBreathHold\obj\x86\Debug\ShandsMedBreathHold.MainFrameControl.resources
+C:\Users\helloyou\Documents\Visual Studio 2010\Projects\ShandsMedBreathHold\ShandsMedBreathHold\obj\x86\Debug\ShandsMedBreathHold.Properties.Resources.resources
+C:\Users\helloyou\Documents\Visual Studio 2010\Projects\ShandsMedBreathHold\ShandsMedBreathHold\obj\x86\Debug\ShandsMedBreathHold.MainFrameControl.zh-CHS.resources
+C:\Users\helloyou\Documents\Visual Studio 2010\Projects\ShandsMedBreathHold\ShandsMedBreathHold\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\helloyou\Documents\Visual Studio 2010\Projects\ShandsMedBreathHold\ShandsMedBreathHold\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\helloyou\Documents\Visual Studio 2010\Projects\ShandsMedBreathHold\ShandsMedBreathHold\obj\x86\Debug\zh-CHS\ShandsMedBreathHold.resources.dll
+C:\Users\helloyou\Documents\Visual Studio 2010\Projects\ShandsMedBreathHold\ShandsMedBreathHold\obj\x86\Debug\ShandsMedBreathHold.exe
+C:\Users\helloyou\Documents\Visual Studio 2010\Projects\ShandsMedBreathHold\ShandsMedBreathHold\obj\x86\Debug\ShandsMedBreathHold.pdb
